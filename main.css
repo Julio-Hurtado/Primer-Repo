@@ -9,9 +9,16 @@ border-width: 1px;
 border-color: #ccc;
 border-radius: 2px;
 border-top:  solid 0px;
+margin: 0 auto;
+max-width: 900px;
+min-width: 320px;
+height: 180px;
 }
 .contenido{
     padding: 10px;
+    height: 60px;
+    font-size: 1.2rem;
+    color: #17576b;
 }
 .header{
     padding: 10px;
